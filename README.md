@@ -1,6 +1,6 @@
 # Hero Card Game
 
-# Goal:
+Goal:
 Be the first player to empty their hand.
 
 Setup:
