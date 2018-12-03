@@ -1,5 +1,6 @@
-# Hero Card Game
+# Card Games in Python
 
+## Hero Card Game:
 ### Goal:
 Be the first player to empty their hand.
 
