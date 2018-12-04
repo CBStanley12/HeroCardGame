@@ -1,15 +1,16 @@
 # Card Games in Python
 
-## Hero Card Game:
-### Goal:
+## Games in Progress:
+### Hero Card Game
+#### Goal:
 Be the first player to empty their hand.
 
-### Setup:
+#### Setup:
 Remove the two of Spades and place it faceup between the two players. This becomes the play pile. 
 
 Dealer Shuffles the deck and alternately deals both players five cards facedown. The cards that are left become the draw pile. The draw pile is set facedown beside the play pile.
 
-### Gameplay:
+#### Gameplay:
 Non-dealer goes first. Place a card of equal or higher value from their own hand faceup on the two of Spades. This new card is now the top card. Dealer places a card of equal or higher value from their own hand faceup on the top card. 
 
 If a player cannot play, then that player draws cards from the top of the draw pile until they have five cards in their hand and play passes to the other player.
